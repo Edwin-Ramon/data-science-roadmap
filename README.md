@@ -4,7 +4,7 @@ A structured roadmap documenting my journey from Computer Science fundamentals t
 
 ---
 
-I am a Biomedical Engineering building a strong foundation in Computer Science, Data Analytics, Business Intelligence, Data Science, Machine Learning, and Artificial Intelligence through a structured multi-year study plan.
+I am a Biomedical Engineer building a strong foundation in Computer Science, Data Analytics, Business Intelligence, Data Science, Machine Learning, and Artificial Intelligence through a structured multi-year study plan.
 
 This repository documents my complete learning journey, including the resources used, skills acquired, projects developed, certifications earned, and progress made throughout each phase of the roadmap.
 
