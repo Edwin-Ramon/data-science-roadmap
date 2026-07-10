@@ -1,86 +1,146 @@
-# Data Science Roadmap
+# Data Science & Data Analytics Roadmap
 
-A structured roadmap documenting my journey from Computer Science fundamentals to professional Data Science and Machine Learning.
-
----
-I am a Biomedical Engineering student currently building a strong foundation in Computer Science, Data Science, and Artificial Intelligence through a structured study plan.
-
-This repository documents my entire learning process, including the resources used, skills acquired, projects developed, and progress at each stage.
+A structured roadmap documenting my journey from Computer Science fundamentals to becoming a professional Data Scientist and Data Analyst.
 
 ---
-## Objetive
-The objective of this roadmap is to develop the necessary skills to work professionally as a Data Scientist or Machine Learning Engineer, with a particular interest in biomedical applications and medical technology.
 
-It's not just about completing courses, but about building a solid foundation based on the fundamentals of Computer Science, mathematics, programming, data analysis, and artificial intelligence.
+I am a Biomedical Engineering building a strong foundation in Computer Science, Data Analytics, Business Intelligence, Data Science, Machine Learning, and Artificial Intelligence through a structured multi-year study plan.
 
----
-## Learning Philosophy
-
-I believe a good Data Scientist should understand much more than just Python libraries.
-
-Therefore, this roadmap is built on the foundations of Computer Science, algorithms, data structures, databases, mathematics, software engineering, and Machine Learning.
-
-Each repository represents a newly acquired skill and transparently documents the learning process.
+This repository documents my complete learning journey, including the resources used, skills acquired, projects developed, certifications earned, and progress made throughout each phase of the roadmap.
 
 ---
-## Roadmap
 
-The roadmap is divided into progressive stages.
+# Objective
 
-Each stage includes:
+The objective of this roadmap is to develop the technical and analytical skills required to work professionally as a Data Analyst or Data Scientist, with a long-term interest in Machine Learning, Artificial Intelligence, and biomedical applications.
 
-* Learning objectives.
-* Selected resources.
-* Exercises.
-* Associated repositories.
-* Documentation.
-* Criteria for progress.
----
-## Current status
-
-I am currently in the preparation stage for the development environment and Computer Science fundamentals.
+Rather than simply completing courses, this roadmap focuses on building a solid foundation in Computer Science, programming, software engineering, mathematics, databases, data analysis, visualization, business intelligence, and machine learning.
 
 ---
-## Technologies I will learn
 
-* Python
-* Git
-* GitHub
-* SQL
-* NumPy
-* Pandas
-* SciPy
-* Scikit-Learn
-* PyTorch
-* Docker
-* Linux
-* PostgreSQL
-* Machine Learning
-* Deep Learning
-* MLOps
+# Learning Philosophy
+
+I believe that becoming a great Data Scientist requires much more than learning Python libraries.
+
+A strong professional should understand how computers work, how software is built, how data is stored, processed, analyzed, visualized, and ultimately transformed into valuable insights.
+
+For that reason, this roadmap begins with Computer Science fundamentals before progressing through Data Analytics, Business Intelligence, Machine Learning, Deep Learning, and Artificial Intelligence.
+
+Every completed phase is documented with notes, exercises, projects, and certifications to provide transparent evidence of the learning process.
 
 ---
-## Key Resources
 
-* CS50
-* OSSU Computer Science (selected content)
-* IBM Data Science Professional Certificate
-* 30 Days of Python
-* Kaggle Learn
-* Official Python documentation
-* Project-Based Learning
+# Roadmap
+
+The roadmap is divided into progressive learning phases.
+
+Each phase includes:
+
+- Learning objectives
+- Study resources
+- Practical exercises
+- Projects
+- Documentation
+- Progress evaluation
+- Completion criteria
+
+The complete roadmap is available in **ROADMAP.md**.
 
 ---
-## Progress
 
-Roadmap progress will be documented through checklists, repositories, projects, and certificates, so that each stage has verifiable evidence of the learning achieved.
+# Technical Skills
+
+Throughout this roadmap I will develop skills in:
+
+## Programming
+
+- Python
+- C
+- SQL
+
+## Computer Science
+
+- Algorithms
+- Data Structures
+- Linux
+- Git
+- GitHub
+- Software Engineering
+
+## Data Analysis
+
+- Excel
+- NumPy
+- Pandas
+- Data Cleaning
+- Data Visualization
+- Statistics
+
+## Business Intelligence
+
+- Power BI
+- Tableau
+- Dashboard Design
+- Storytelling with Data
+
+## Data Science
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+
+## Data Engineering & Cloud
+
+- PostgreSQL
+- Docker
+- ETL
+- AWS
+- Azure
 
 ---
-## Final Objectives
 
-* By the end of this roadmap, I expect to have developed the necessary skills to:
-* Design data analytics solutions.
-* Develop machine learning models.
-* Implement models in production.
-* Build complete data science projects.
-* Specialize in AI applications for the healthcare sector.
+# Main Resources
+
+- CS50x
+- OSSU Computer Science (selected content)
+- IBM Data Science Professional Certificate
+- Microsoft Power BI Data Analyst
+- 30 Days of Python
+- Kaggle Learn
+- Official Python Documentation
+- PostgreSQL Documentation
+- Project-Based Learning
+
+---
+
+# Progress Tracking
+
+Every phase of this roadmap will be documented through:
+
+- Study notes
+- Practical exercises
+- Projects
+- GitHub repositories
+- Certificates
+- LinkedIn updates
+
+This repository serves as a public record of my continuous learning journey.
+
+---
+
+# Final Goal
+
+By the end of this roadmap, I expect to be able to:
+
+- Design complete data analysis solutions.
+- Build professional dashboards and business intelligence reports.
+- Develop machine learning models.
+- Deploy data science solutions.
+- Create end-to-end data projects.
+- Apply Artificial Intelligence to biomedical and healthcare problems.
+- Work professionally as a Data Analyst or Data Scientist.
+
+---
+
+> "Learning by building, documenting, and continuously improving."
